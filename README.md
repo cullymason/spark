@@ -3,6 +3,8 @@ spark
 
 Extending Laravel/Eloquent to return Ember friendly JSON
 
+> Original Gist: [explaination link](https://gist.github.com/cullymason/6198667)
+
 ## Basic Explaination
 
 It would be nice if we had a plugin that allows Laravel to play nice with Ember. Put simply I would like to create an easy way for Laravel to output JSON strings in a way that Ember likes.
